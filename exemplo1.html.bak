@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Lucas Sambati HTML </title> 
+</head>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+<a href="exemplo2.html">Link para a página 2.</a>
+<img src="miguel.jpg" alt="Era pra ser uma imagem do Miguel" width="1920" height="342">
+
+</body>
+</html>	
